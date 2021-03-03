@@ -4,8 +4,6 @@
   <a href="https://scholar.google.com/citations?user=bp5P9BMAAAAJ&hl=en">Google Scholar</a>
 </p>
 
-## Projects
-
 <img height="200px" width="200px" align="left" src="https://github.com/ecs-vlc/FMix/blob/master/fmix_3d.gif">
 
 ### [FMix](https://github.com/ecs-vlc/FMix)
