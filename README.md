@@ -1,5 +1,3 @@
-<img width="100%" src="https://www.pytorchbearer.org/assets/img/banner/hummingbird.jpg">
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ethanwharris/">LinkedIn</a> •
   <a href="https://twitter.com/ethanwharris">Twitter</a> •
