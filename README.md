@@ -4,7 +4,7 @@
   <a href="https://scholar.google.com/citations?user=bp5P9BMAAAAJ&hl=en">Google Scholar</a>
 </p>
 
-<img height="200px" width="200px" align="left" src="https://github.com/ecs-vlc/FMix/blob/master/fmix_3d.gif">
+<img height="100px" width="100px" align="left" src="https://github.com/ecs-vlc/FMix/blob/master/fmix_3d.gif">
 
 ### [FMix](https://github.com/ecs-vlc/FMix)
 
@@ -14,7 +14,7 @@
 
 -----
 
-<img height="200px" width="200px" align="left" src="https://github.com/pytorchbearer/torchbearer/blob/master/docs/_static/img/logo_dark.svg">
+<img height="100px" width="100px" align="left" src="https://github.com/pytorchbearer/torchbearer/blob/master/docs/_static/img/logo_dark.svg">
 
 ### [Torchbearer](https://github.com/pytorchbearer/torchbearer)
 
