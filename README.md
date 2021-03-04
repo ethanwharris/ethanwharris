@@ -9,8 +9,7 @@
 ### [FMix](https://github.com/ecs-vlc/FMix)
 
 - Code for our paper ["FMix: Enhancing Mixed Sample Data Augmentation"](https://arxiv.org/abs/2002.12047)
-- Used by the second place team in the Bengali.AI Handwritten Grapheme Classification Kaggle competition ([submission write-up here](https://www.kaggle.com/c/bengaliai-cv19/discussion/135966))
-- Used by the third place team in the Rainforest Connection Species Audio Detection Kaggle competition ([submission write-up here](https://www.kaggle.com/c/rfcx-species-audio-detection/discussion/220522))
+- Used by the [second place team in the Bengali.AI Handwritten Grapheme Classification Kaggle competition](https://www.kaggle.com/c/bengaliai-cv19/discussion/135966) and by the [third place team in the Rainforest Connection Species Audio Detection Kaggle competition](https://www.kaggle.com/c/rfcx-species-audio-detection/discussion/220522)
 
 -----
 
